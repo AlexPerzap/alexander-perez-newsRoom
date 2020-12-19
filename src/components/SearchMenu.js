@@ -5,7 +5,7 @@ const SearchMenu = ({ defaultUser, onGet, onClear }) => {
 
   return (
     <div className="container">
-      <h5>Obteniendo los repos por username:</h5>
+      <h5>Obteniendo los repositorios por username:</h5>
       <div className="row">
         <div className="col">
           <div className="input-group mb-3">
